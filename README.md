@@ -21,4 +21,4 @@ We will release the source code when this repo has 20 stars
 ## Support Server
 Got any questions or feedback? Join our Discord Server: https://discord.com/invite/2t3qJzuUxH
 
-Or, https://s.id/axeon
+Or https://s.id/axeon
