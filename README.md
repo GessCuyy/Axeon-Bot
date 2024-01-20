@@ -11,8 +11,8 @@ Axeon Bot
 - Sticker: Sticker Maker, Sticker to Video, Gif To Sticker, Watermark a Sticker, etc.
 - Group: Ban Chat, Kick Member, Hidetags, Welcome & Bye, Demote, Promote, Invite, etc.
 - Anonymous: Start, Leave, Next
-- Jadi Bot: Become a clone bot, see list of the bot, etc.
-- Owner: Broadcasts, Add & Delete Premium Users, Get Plugin, Cheat, Session, Randompicks for giveaway, Verify $ Unverify Users, etc.
+- Jadi Bot: Become a clone bot, and seeing list of the cloned bot
+- Owner: Broadcasts, Add & Delete Premium Users, Get Plugin, Cheat, Session, Randompicks for giveaway, Verify & Unverify Users, etc.
 - Youtube: Play Audio, Youtube Video & Audio, Youtube Shorts, etc.
 - Internet: Google Image Search, Weather & Earthquake Information, Random Facts, Random Jokes, Spotify Search, Yandex, etc.
 - Game: Bomb, Chess, Ulartangga, Guess, Police, Werewolf, etc.
