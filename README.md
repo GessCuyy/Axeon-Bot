@@ -1,4 +1,8 @@
 # Axeon Bot
+Is a WhatsApp Bot with many multifunctional features.
+
+# Requirements
+
 
 # Initial display on Axeon
 
